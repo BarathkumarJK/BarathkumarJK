@@ -1,6 +1,10 @@
-## __Hi there 👋, I'm Barathkumar__
-
-__I'm a Pentester, bug hunter,palying CTF challenges, Ethical Hacker.__
+<h3 align="center">
+  Welcome to Barathkumar profile! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Pentester;CTF%20Player;Bug%20Hunter;Cyber%20Security%20Enthusiastic&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 
 <!--
 **BarathkumarJK/BarathkumarJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
