@@ -43,7 +43,6 @@
 
 
 ### Tools, languages, and other things that I like to work with 🛠️
-
 <table>
   <tr>
       <td align="center" width="96">
@@ -73,8 +72,7 @@
       </a>
       <br>Python
     </td>
-
-   <td align="center"  width="96">
+    <td align="center"  width="96">
       <a href="#macropower-tech">
         <img src="./img/pandas.png" width="48" height="48" alt="Pandas" />
       </a>
@@ -95,6 +93,10 @@
       <br>Tkinter
     </td>
     
+  </tr>
+</table>
+<table>
+  <tr>
     
    <td align="center"  width="96">
       <a href="#macropower-tech">
