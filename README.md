@@ -55,14 +55,14 @@
 
    <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/c.png" width="46" height="42" alt="C" />
+        <img src="./img/c.png" width="46" height="48" alt="C" />
       </a>
       <br>C
     </td>
 
    <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/r.png" width="46" height="52" alt="R" />
+        <img src="./img/r.png" width="46" height="48" alt="R" />
       </a>
       <br>R
     </td>
