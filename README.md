@@ -13,7 +13,9 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Barathkumarjk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-## Streak stats
+
+
+## Streak status
 
 
 <p align="center">
@@ -23,6 +25,7 @@
  
 
 ## My Online Presence 👇
+    
 <p>
 <a href="https://www.instagram.com/cyberexploitme/" target="blank">
 <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
