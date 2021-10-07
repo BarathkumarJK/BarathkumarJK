@@ -42,6 +42,106 @@
 </p>
 
 
+### Tools, languages, and other things that I like to work with 🛠️
+
+<table>
+  <tr>
+      <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/html.png" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+     </td>
+
+   <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/c.png" width="46" height="42" alt="C" />
+      </a>
+      <br>C
+    </td>
+
+   <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/r.png" width="46" height="52" alt="R" />
+      </a>
+      <br>R
+    </td>
+
+   <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/python.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+
+   <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/pandas.png" width="48" height="48" alt="Pandas" />
+      </a>
+      <br>Pandas
+    </td>
+
+   <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/numpy.png" width="48" height="48" alt="Numpy" />
+      </a>
+      <br>Numpy
+    </td>
+    
+   <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/tkinter.png" width="48" height="48" alt="Tkinter" />
+      </a>
+      <br>Tkinter
+    </td>
+    
+    
+   <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/linux.png" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+
+   <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/github.png" width="48" height="48" alt="Github"/>
+      </a>
+      <br>Github
+    </td>
+
+    
+
+   <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/htb.jpg" width="48" height="48" alt="HTB"/>
+      </a>
+      <br>HTB
+    </td>
+
+   <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/thm.png" width="48" height="48" alt="THM" />
+      </a>
+      <br>THM
+    </td>
+
+  <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/ctf.png" width="48" height="48" alt="CTF" />
+      </a>
+      <br>CTFs
+    </td>
+  
+   <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/burp.png" width="46" height="42" alt="Burp" />
+      </a>
+      <br>Burp
+    </td>
+
+  </tr>
+</table>
 
 <!--
 **BarathkumarJK/BarathkumarJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
