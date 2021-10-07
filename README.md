@@ -62,7 +62,7 @@
 
    <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/r.png" width="46" height="48" alt="R" />
+        <img src="./img/r.png" width="52" height="48" alt="R" />
       </a>
       <br>R
     </td>
