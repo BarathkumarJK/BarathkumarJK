@@ -21,6 +21,28 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Barathkumar's streak" src="http://github-readme-streak-stats.herokuapp.com/?user=Barathkumarjk&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
 
 
+## My Online Presence 👇
+<p>
+<a href="https://www.instagram.com/cyberexploitme/" target="blank">
+<img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://in.linkedin.com/in/barathkumar-j-k-7b9699214" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/CyberExploitMe" target="blank">
+<img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://t.me/cyberexploitme" target="blank">
+<img align="center" src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+</p>
+
+
+
 <!--
 **BarathkumarJK/BarathkumarJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
