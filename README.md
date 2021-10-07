@@ -13,7 +13,12 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Barathkumarjk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
+## 🔥 Streak stats
 
+
+<p align="center">
+  <a href="https://github.com/Barathkumarjk/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Barathkumar's streak" src="http://github-readme-streak-stats.herokuapp.com/?user=Barathkumarjk&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
 
 
 <!--
