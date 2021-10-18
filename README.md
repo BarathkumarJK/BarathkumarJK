@@ -150,7 +150,7 @@
 
   </tr>
 </table>
-    
+    <b>
     
 ## 📊 Github stats
 
