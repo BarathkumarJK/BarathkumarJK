@@ -22,7 +22,7 @@
   <a href="https://github-readme-stats.vercel.app">
     <img title="🔥 Get your github profile at github-readme-stats.vercel.app" alt="Barathkumar's github info" src="https://github-readme-stats.vercel.app/api?username=Barathkumarjk&show_icons=true&theme=radical"/>
 </p>
- 
+ <br>
 
 ## My Online Presence 👇
     
