@@ -27,7 +27,7 @@
 ## My Online Presence 👇
     
 <p>
-<a href="https://www.instagram.com/cyberexploitme/" target="blank">
+<a href="https://www.instagram.com/0xbarath/" target="blank">
 <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
