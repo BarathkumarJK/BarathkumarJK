@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Pentester;CTF%20Player;Bug%20Hunter;Cyber%20Security%20Enthusiastic&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=23"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Cyber%20Security%20Enthusiastic;CTF%20Player;Bug%20Hunter&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=23"></a>
 </p>
 
 <p align="center">
